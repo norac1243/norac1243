@@ -1,5 +1,5 @@
 
-####Intermediate Developer
+# Intermediate Developer
 I am Caron, Computer Engineering undergrad 
 
 Skills: C++ / PYTHON / SQL / HTML / CSS
