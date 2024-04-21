@@ -10,7 +10,7 @@ Email: caronspereira@gmail.com <br>
 
 
 # Github Stats and Streaks
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=norac1243&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=norac1243)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=norac1243&show_icons=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=norac1243)  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norac1243" alt="norac1243" /></a> </p>
 
  
