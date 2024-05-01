@@ -5,9 +5,10 @@ I am Caron, Computer Engineering undergrad
 Skills: C++ / PYTHON / SQL / HTML / CSS
 
 # Let's get in touch!
-Email: caronspereira@gmail.com <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/norac1243)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/norac1243)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/phi_csp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/norac1243)  
-
+Email: <a href="mailto:caronspereira@gmail.com">caronspereira@gmail.com</a><br>
+<p align="left">
+<a href="https://www.linkedin.com/in/caron-sally-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caron-pereira" height="30" width="40" /></a>
+</p>
 
 # Github Stats and Streaks
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=norac1243&show_icons=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=norac1243)  
