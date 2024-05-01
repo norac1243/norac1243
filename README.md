@@ -5,7 +5,7 @@ I am Caron, Computer Engineering undergrad
 Skills: C++ / PYTHON / SQL / HTML / CSS
 
 # Let's get in touch!
-Email: <a href="mailto:caronspereira@gmail.com">caronspereira@gmail.com</a><br>
+Email: <a href="mailto:caronspereira@gmail.com">caronspereira@gmail.com</a><br><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/caron-sally-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caron-pereira" height="30" width="40" /></a>
 </p>
