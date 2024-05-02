@@ -2,7 +2,7 @@
 # Intermediate Developer
 I am Caron, Computer Engineering undergrad 
 
-Skills: C++ / PYTHON / SQL / HTML / CSS
+Skills: C++ / PYTHON / SQL / HTML / CSS / JavasScript / Cipher 
 
 # Let's get in touch!
 Email: <a href="mailto:caronspereira@gmail.com">caronspereira@gmail.com</a><br><br>
