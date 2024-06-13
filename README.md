@@ -16,7 +16,7 @@ Email: <a href="mailto:caronspereira@gmail.com">caronspereira@gmail.com</a><br><
 
 
 ![Caron's GitHub stats](https://github-readme-stats.vercel.app/api?username=norac1243&show_icons=true&theme=dark&hide_border=true)  </br>
-[![Caron's trophies](https://github-profile-trophy.vercel.app/?username=norac-1243&theme=darkhub&column=6&margin-w=20&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![![Caron's trophies](https://github-profile-trophy.vercel.app/?username=norac-1243&theme=darkhub&column=6&margin-w=20&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
  
