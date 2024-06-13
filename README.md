@@ -15,7 +15,7 @@ Email: <a href="mailto:caronspereira@gmail.com">caronspereira@gmail.com</a><br><
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norac1243" alt="norac1243" /></a> </p>
 
 
-![Caron's GitHub stats](https://github-readme-stats.vercel.app/api?username=norac1243&show_icons=true&theme=dark&hide_border=true)  </br>[![trophy](https://github-profile-trophy.vercel.app/?username=Katia-Emilia&theme=darkhub&column=6&margin-w=20&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Caron's GitHub stats](https://github-readme-stats.vercel.app/api?username=norac1243&show_icons=true&theme=dark&hide_border=true)  </br>[![trophy](https://github-profile-trophy.vercel.app/?username=norac1243&theme=darkhub&column=6&margin-w=20&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
  
